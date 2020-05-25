@@ -1,3 +1,10 @@
+# IDE
+.idea/
+
+# vim and emacs
+*.swp
+*~
+
 # Binaries for programs and plugins
 *.exe
 *.exe~
